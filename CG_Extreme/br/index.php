@@ -19,7 +19,7 @@
 	<script type="text/javascript">
 		$(document).ready(function() {
 		    $('.slideshow').cycle({
-				fx: 'fade' // choose your transition nooooooooooo type, ex: fade, scrollUp, shuffle, etc...
+				fx: 'fade' // choose your transition pushhh type, ex: fade, scrollUp, shuffle, etc...
 			});
 		});
 	</script>
