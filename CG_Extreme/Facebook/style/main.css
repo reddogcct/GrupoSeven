@@ -27,11 +27,11 @@ html{padding-bottom: 50px;}
 
 /* ------- MENU ------- */
 #menu{
-	width:700px;
-	height:100px;
+	width:50px;
+	height:52px;
 	position:fixed;
-	background:red;
 	margin-top:-400px;
+	padding-top:10px;
 }
 #menu ul li{
 	width:52px;

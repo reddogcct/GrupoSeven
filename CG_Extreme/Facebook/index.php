@@ -17,7 +17,7 @@
 		<div id="menu">
 			<ul>
 				<li><img src="image/home/icone-home.png" alt="" title""></li>
-				<li><img src="image/home/icone-home.png" alt="" title""></li>
+				<li><img src="image/home/icone-palestrantes.png" alt="" title""></li>
 				<li><img src="image/home/icone-home.png" alt="" title""></li>
 				<li><img src="image/home/icone-home.png" alt="" title""></li>
 			</ul>

@@ -1,6 +1,15 @@
 // Java Script
 $(document).ready(function(e) {
+
+// MENU ANIMATE
+
 	$("#menu").animate({
 		marginTop:"0px",
-	},3000);
+		width: "52px"
+	},4000);
+	$("#menu").animate({
+		marginTop:"0px",
+		width: "250px"
+	},1000);
+	
 });
