@@ -5,16 +5,26 @@ $(document).ready(function(e) {
 
 	$("#menu").animate({
 		marginTop:"0px",
-		width: "52px"
+		width: "54px"
 	},4000);
 	$("#menu").animate({
 		marginTop:"0px",
 		width: "250px"
 	},1000);
 	
+
+	$("#realizacao").delay(7000).animate({
+		opacity:"0.9",
+	},2000);
 	
-
-
+	$("#logo").delay(4000).animate({
+		marginTop: "100"
+	},4000);
+	
+		$("#data").delay(4000).animate({
+		marginLeft: "100px",
+	
+	},4000);
 
 });
 

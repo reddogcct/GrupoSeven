@@ -13,7 +13,7 @@
 	
 <body>
 
-	<div class="mainDiv">
+	<div id="mainDiv">
 		<div id="menu">
 			<ul>
 			<a href="galeria.php" rel="tooltip" te="Home"><li><img src="image/home/icone-home.png" alt="" title""></li></a>
@@ -22,10 +22,13 @@
 			<a href="galeria.php" rel="tooltip" te="Site Oficial"><li><img src="image/home/icone-site-oficial.png" alt="" title""></li></a>
 			</ul>
 		</div><!-- close menu-->
-
-		<div id="contentHome">
-		
-		</div><!-- close content-->
+	
+	<div id="contentHome">
+	
+		<div id="realizacao"></div><!-- close realização-->
+		<div id="logo"></div><!-- close logo -->
+		<div id="data"></div><!-- close data -->
+		</div><!-- close contentHome-->
 	</div><!--close mainDiv-->
 
 
