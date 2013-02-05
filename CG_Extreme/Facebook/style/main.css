@@ -39,10 +39,24 @@ html{padding-bottom: 50px;}
 	display:inline;
 }
 
+/* mouse hover function */
+.tooltip {
+	position: absolute; 
+	padding: 10px 30px; 
+	background:black;
+	font-family:Verdana, Geneva, sans-serif;  
+	font-size: 8px; 
+	color:white;
+	z-index: 10;
+	opacity:0.8;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px; border-radius: 5px; 
+	}
+
 /* ------- HOME ------- */
 #contentHome{
 	width:800px;
 	height:700px;
 	top:200px;
-	background:#000;
+	background:white;
 }

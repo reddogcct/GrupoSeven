@@ -16,10 +16,10 @@
 	<div class="mainDiv">
 		<div id="menu">
 			<ul>
-				<li><img src="image/home/icone-home.png" alt="" title""></li>
-				<li><img src="image/home/icone-palestrantes.png" alt="" title""></li>
-				<li><img src="image/home/icone-home.png" alt="" title""></li>
-				<li><img src="image/home/icone-home.png" alt="" title""></li>
+			<a href="galeria.php" rel="tooltip" te="Home"><li><img src="image/home/icone-home.png" alt="" title""></li></a>
+			<a href="galeria.php" rel="tooltip" te="Palestrantes"><li><img src="image/home/icone-palestrantes.png" alt="" title""></li></a>
+			<a href="galeria.php" rel="tooltip" te="Ingressos"><li><img src="image/home/icone-ingressos.png" alt="" title""></li></a>
+			<a href="galeria.php" rel="tooltip" te="Site Oficial"><li><img src="image/home/icone-site-oficial.png" alt="" title""></li></a>
 			</ul>
 		</div><!-- close menu-->
 
