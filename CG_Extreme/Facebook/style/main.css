@@ -85,11 +85,11 @@ html{padding-bottom: 50px;}
 	background:url("../image/home/logo-cg-extreme.png")no-repeat;
 }
 #data{
-	width:341px;
+	width:50px;
 	height:95px;
 	position:absolute;
 	z-index:10;
 	left:50%;
-	margin: 400px 0px 0px -150px;
+	margin: -400px 0px 0px -200px;
 	background:url("../image/home/data-cg-extreme.png")no-repeat;
 }

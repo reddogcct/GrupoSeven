@@ -1,24 +1,17 @@
-<div id="rodape_home">
-<center>
-<div id="redes_sociais">
-<ul>
-<li><img src="img/pd/facebook.png"></li>
-<li><img src="img/pd/youtube.png"></li>
-</ul>
-</div>
-
-<div id="direitos"><strong>copyright&copy; CGEXTREME - TODOS OS DIREITOS RESERVADOS</strong></div></center>
-</div>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-37275959-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+<!--- rodape -->  
+		<div id="rodape_home">
+		<center>
+		<div id="redes_sociais">
+		<ul>
+		<a href="https://www.facebook.com/SevenComputacaoGrafica" target="new"><li><img src="img/pd/facebook.png"></li></a>
+		<a href="http://www.youtube.com/user/seven7cg" target="new"><li><img src="img/pd/youtube.png"></li></a>
+		</ul>
+		</div>
+		
+		<div id="direitos"><strong>copyright&copy;CGEXTREME - TODOS OS DIREITOS RESERVADOS</strong></div></center>
+		</div>
+		<!-- rodape -->
+		</div>
+		<!--close content_home--> 
+		</div>
+		<!--close content-->

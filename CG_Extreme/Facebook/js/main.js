@@ -21,10 +21,9 @@ $(document).ready(function(e) {
 		marginTop: "100"
 	},4000);
 	
-		$("#data").delay(4000).animate({
-		marginLeft: "100px",
-	
-	},4000);
+	$("#data").delay(4000).animate({
+			marginTop: "300"
+		},4000);
 
 });
 
