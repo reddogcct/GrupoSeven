@@ -1,17 +1,19 @@
-<!--- rodape -->  
-		<div id="rodape_home">
-		<center>
-		<div id="redes_sociais">
-		<ul>
-		<a href="https://www.facebook.com/SevenComputacaoGrafica" target="new"><li><img src="img/pd/facebook.png"></li></a>
-		<a href="http://www.youtube.com/user/seven7cg" target="new"><li><img src="img/pd/youtube.png"></li></a>
-		</ul>
-		</div>
+	<!--- rodape -->  
+	<div class="mainRodape">
+	
+	
+		<div class="rodape">
 		
-		<div id="direitos"><strong>copyright&copy;CGEXTREME - TODOS OS DIREITOS RESERVADOS</strong></div></center>
-		</div>
-		<!-- rodape -->
-		</div>
-		<!--close content_home--> 
-		</div>
-		<!--close content-->
+			<div class="apoio">
+			
+			</div><!-- close apoio -->
+			
+		</div><!-- close rodape -->
+		
+	</div><!-- mainRodape -->
+		
+	<div class="direitos">
+		<center>
+		<strong>copyright&copy;CGEXTREME - TODOS OS DIREITOS RESERVADOS</strong>
+		</center>
+	</div><! -- close direitos -- >

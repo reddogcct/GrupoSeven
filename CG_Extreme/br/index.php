@@ -138,9 +138,12 @@
 		<Br>
 		<a href="evento.php"><img src="img/home/organizadores.png"></a>
 		</div>
-		
+			
+		</div>
+		<!--close content_home--> 
 		
 		<?php include('include/rodape.php'); ?>
+		</div>
 
 </body>
 </html>
