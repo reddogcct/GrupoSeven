@@ -452,13 +452,27 @@ cursive;
 	position:absolute;
 	left:0;
 	margin:200px 0px 0px 0px;
-	background: url(../img/pd/rodape.jpg);
+	background: url(../img/rodape/fundo-rodape.jpg) no-repeat 50% 0;
 }
 .rodape{
 	width:960px;
 	height:140px;
 	margin:auto;
-	background:red;
+}
+.apoio{
+	width:500px;
+	height:70px;
+	position:relative;
+	left:70px;
+	top:50px;
+}
+.parceiros{
+	width:230px;
+	height:70px;
+	position:relative;
+	right:130px;
+	top:-20px;
+	float:right;
 }
 .direitos{
 	background:black;
