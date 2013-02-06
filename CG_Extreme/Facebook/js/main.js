@@ -12,18 +12,30 @@ $(document).ready(function(e) {
 		width: "250px"
 	},1000);
 	
-
 	$("#realizacao").delay(7000).animate({
 		opacity:"0.9",
 	},2000);
 	
 	$("#logo").delay(4000).animate({
-		marginTop: "100"
+		marginTop: "100px"
 	},4000);
 	
 	$("#data").delay(4000).animate({
-			marginTop: "300"
+			marginTop: "390px",
+			width: "380px",
+			marginLeft: "20px"
+			
 		},4000);
+		
+	$("#aviao").delay(3000).animate({
+		marginLeft: "340px"
+		
+	},5000);
+	
+		$("#text").delay(4000).animate({
+		width: "386px"
+		
+	},2000);
 
 });
 

@@ -93,3 +93,21 @@ html{padding-bottom: 50px;}
 	margin: -400px 0px 0px -200px;
 	background:url("../image/home/data-cg-extreme.png")no-repeat;
 }
+#aviao{
+	position:absolute;
+	left:50%;
+	margin: 350px 0px 0px -600px;
+	z-index: 200;
+	width: 293px;
+	height:266px;
+	background: url("../image/home/aviao.png");
+}
+#text{
+	width: 0px;
+	height: 29px;
+	position:absolute;
+	z-index: 100;
+	left:0;
+	margin: 500px 0px 0px 170px;
+	background: url("../image/home/embarque-nessa.png");
+}
