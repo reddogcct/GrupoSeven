@@ -55,7 +55,7 @@
     </div>
   </div>
   <div id="unidades2" align="left";>
-    <p class="blackbox-map" cord="-21.706405, -47.480110" address="CONTAGEM MG" style=" font-size:14px; color:#999999;" >CONTAGEM | MG
+    <p class="blackbox-map" cord="-21.706405, -47.480110" address="Av. José Faria da Rocha, 1016 - Eldorado - Contagem - MG" style=" font-size:14px; color:#999999;" >CONTAGEM | MG
     <p class="blackbox-map" cord="-22.902309, -43.177042" address="Rua do Rosário, 82, Centro - Rio de Janeiro - Tel: (21) 2233-8209" style=" font-size:14px; color:#999999;">CENTRO (SEVEN GAME)| RJ
     <p class="blackbox-map" cord="-22.889621, -43.124074" address="Rua Visconde de Rio Branco, 243 - Niterói - RJ - Tel: (21) 3617-1177" style="font-size:14px; color:#999999;">NITERÓI  | RJ
     <p class="blackbox-map"	cord="-19.91387, -43.928946" address="Av. do Contorno 1570, Belo Horizonte - Minas Gerais - Tel: (31) 2514-7797" style="font-size:14px; color:#999999;">BELO HORIZONTE | MG

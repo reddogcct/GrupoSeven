@@ -39,7 +39,7 @@
  <div class="unidades-class blackbox-map" cord="-22.758513, -43.451056" address="Travessa Quaresma, 48 - Centro"> <img src="img/unidades/todas-unidades/novaiguacu.jpg" /> <span class="cor_brancaunidades">Travessa Quaresma 48, Nova Iguaçu - RJ <br />
   <br />
   Tel: +55 21 2667-6815</span></div>
- <div class="unidades-class blackbox-map" cord="-21.706405, -47.480110" address="CONTAGEM MG"> <img src="img/unidades/todas-unidades/contagem.jpg" /><span class="cor_brancaunidades"> Contagem - MG<br />
+ <div class="unidades-class blackbox-map" cord="-21.706405, -47.480110" address="Av. José Faria da Rocha, 1016 - Eldorado - Contagem - MG"> <img src="img/unidades/todas-unidades/contagem.jpg" /><span class="cor_brancaunidades">Av. José Faria da Rocha, 1016 - Eldorado - Contagem - MG<br />
   <br />
 </span></div>
  <div class="unidades-class blackbox-map" cord="-22.902309, -43.177042" address="Rua do Rosário, 82, Centro - Rio de Janeiro - Tel: (21) 2233-8209"> <img src="img/unidades/todas-unidades/game.jpg" /><span class="cor_brancaunidades">Rua do Rosário, 82 Centro - Rio de Janeiro<br />
