@@ -31,7 +31,9 @@ $(document).ready(function(e) {
 	$("#aviao").delay(3000).animate({
 		marginLeft: "340px"
 		
-	},5000);
+	},5000,function(){
+		$(this).fadeOut();
+	});
 	
 		$("#text").delay(4000).animate({
 		width: "386px"
@@ -44,7 +46,7 @@ $(document).ready(function(e) {
                     var $anchor = $(this);
 												$('html, body').stop().animate({
 											scrollTop: $($anchor.attr('href')).offset().top
-                    }, 7000,'');
+                    },7000,'');
                     event.preventDefault();
                 });
             });
