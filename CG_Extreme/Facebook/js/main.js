@@ -1,7 +1,8 @@
-// Java Script
+//-------------------------------------------------------------- MENU HOME---------------------------------------------------------------- 
+
 $(document).ready(function(e) {
 
-// MENU ANIMATE
+
 
 	$("#menu").animate({
 		marginTop:"0px",
@@ -36,8 +37,22 @@ $(document).ready(function(e) {
 		width: "386px"
 		
 	},2000);
+	
+// -------------------------------------------------------------- NAVEGACAO ----------------------------------------------------------------
+            $(function() {
+                $('ul a').bind('click',function(event){
+                    var $anchor = $(this);
+												$('html, body').stop().animate({
+											scrollTop: $($anchor.attr('href')).offset().top
+                    }, 7000,'');
+                    event.preventDefault();
+                });
+            });
 
-});
+}); // close init function
+
+// ------------------------------------------------------------- MENU ----------------------------------------------------------------
+
 
 $(function(){
 	$("*[rel=tooltip]").hover(function(e) { 
@@ -58,3 +73,4 @@ $(function(){
 			
 		});*/
 });
+
