@@ -23,31 +23,31 @@ $(document).ready(function(e) {
 		marginTop: "390px",
 		width: "380px",
 		marginLeft: "20px"
-			
-		},4000);
-		
+	
+	},4000);
+	
 	$("#aviao").delay(3000).animate({
 		marginLeft: "340px"
-		
-	},5000,function(){
+	
+		},5000,function(){
 		$(this).fadeOut();
 	});
 	
-		$("#text").delay(4000).animate({
+	$("#text").delay(4000).animate({
 		width: "386px"
-		
+	
 	},2000);
 	
 // -------------------------------------------------------------- NAVEGACAO ----------------------------------------------------------------
-            $(function() {
-                $('ul a').bind('click',function(event){
-                    var $anchor = $(this);
-												$('html, body').stop().animate({
-											scrollTop: $($anchor.attr('href')).offset().top
-                    },7000,'');
-                    event.preventDefault();
-                });
-            });
+    $(function() {
+        $('ul a').bind('click',function(event){
+            var $anchor = $(this);
+									$('html, body').stop().animate({
+								scrollTop: $($anchor.attr('href')).offset().top
+            },7000,'');
+            event.preventDefault();
+        });
+    });
 
 }); // close init function
 
@@ -73,4 +73,3 @@ $(function(){
 			
 		});*/
 });
-

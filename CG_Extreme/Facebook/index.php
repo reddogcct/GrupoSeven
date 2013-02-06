@@ -24,14 +24,12 @@
 				</ul>
 		</div><!-- close menu-->
 	
-	<div id="contentHome">
-	
-		<div id="realizacao"></div><!-- close realização-->
-		<div id="logo"></div><!-- close logo -->
-		<div id="data"></div><!-- close data -->
-		<div id="aviao"></div><!-- close aviao -->
-		<div id="text"></div><!-- close text -->
-		
+		<div id="contentHome">
+			<div id="realizacao"></div><!-- close realização-->
+			<div id="logo"></div><!-- close logo -->
+			<div id="data"></div><!-- close data -->
+			<div id="aviao"></div><!-- close aviao -->
+			<div id="text"></div><!-- close text -->
 		</div><!-- close contentHome-->
 	</div><! -- close section 1-->
 	
