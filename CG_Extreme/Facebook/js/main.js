@@ -2,8 +2,6 @@
 
 $(document).ready(function(e) {
 
-
-
 	$("#menu").animate({
 		marginTop:"0px",
 		width: "54px"
@@ -22,9 +20,9 @@ $(document).ready(function(e) {
 	},4000);
 	
 	$("#data").delay(4000).animate({
-			marginTop: "390px",
-			width: "380px",
-			marginLeft: "20px"
+		marginTop: "390px",
+		width: "380px",
+		marginLeft: "20px"
 			
 		},4000);
 		

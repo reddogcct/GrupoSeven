@@ -13,15 +13,15 @@
 	</head>
 	
 <body>
-<div class="section" id="section1">
-	<div id="mainDiv">
-		<div id="menu">
-			<ul>
-			<a href="#section1" rel="tooltip" te="Home"><li><img src="image/home/icone-home.png" alt="" title""></li></a>
-			<a href="#section2" rel="tooltip" te="Palestrantes"><li><img src="image/home/icone-palestrantes.png" alt="" title""></li></a>
-			<a href="#section3" rel="tooltip" te="Ingressos"><li><img src="image/home/icone-ingressos.png" alt="" title""></li></a>
-			<a href="http://cgextreme.com.br" target="new" rel="tooltip" te="Site Oficial"><li><img src="image/home/icone-site-oficial.png" alt="" title""></li></a>
-			</ul>
+	<div class="section" id="section1">
+		<div id="mainDiv">
+			<div id="menu">
+				<ul>
+				<a href="#section1" rel="tooltip" te="Home"><li><img src="image/home/icone-home.png" alt="" title""></li></a>
+				<a href="#section2" rel="tooltip" te="Palestrantes"><li><img src="image/home/icone-palestrantes.png" alt="" title""></li></a>
+				<a href="#section3" rel="tooltip" te="Ingressos"><li><img src="image/home/icone-ingressos.png" alt="" title""></li></a>
+				<a href="http://cgextreme.com.br" target="new" rel="tooltip" te="Site Oficial"><li><img src="image/home/icone-site-oficial.png" alt="" title""></li></a>
+				</ul>
 		</div><!-- close menu-->
 	
 	<div id="contentHome">
@@ -44,7 +44,7 @@
 	<div class="section" id="section3">
 	
 	
-	</div><! -- close section2 -- >
+		</div><! -- close section2 -- >
 	</div><!--close mainDiv-->
 
 </body>
