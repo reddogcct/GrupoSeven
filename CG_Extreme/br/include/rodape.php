@@ -8,7 +8,7 @@
 			</div><!-- close apoio -->
 			
 			<div class="parceiros">
-			<a href="http://www.cvc.com.br/" target="new"><img src="img/rodape/logo-cvc.png" alt="" title="">
+			<a href="http://www.cvc.com.br/" target="new"><img src="img/rodape/logo-cvc.png" alt="" title=""></a>
 			</div><!-- close parceiros -->
 		
 		</div><!-- close rodape -->
