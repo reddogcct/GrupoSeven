@@ -22,7 +22,7 @@
 				<a href="#section3" rel="tooltip" te="Ingressos"><li><img src="image/home/icone-ingressos.png" alt="" title""></li></a>
 				<a href="http://cgextreme.com.br" target="new" rel="tooltip" te="Site Oficial"><li><img src="image/home/icone-site-oficial.png" alt="" title""></li></a>
 				</ul>
-		</div><!-- close menu-->
+			</div><!-- close menu-->
 	
 		<div id="contentHome">
 			<div id="realizacao"></div><!-- close realização-->
