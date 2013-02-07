@@ -12,7 +12,7 @@
 	<script type="text/javascript" src="js/main.js"></script>
 	</head>
 	
-<body>
+<body onload="init();">
 	<div class="section" id="section1">
 		<div id="mainDiv">
 			<div id="menu">
