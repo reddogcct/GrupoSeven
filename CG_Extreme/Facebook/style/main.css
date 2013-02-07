@@ -18,30 +18,14 @@ html{padding-bottom: 50px;}
 
 /* ------- main------- */
 #mainDiv{
+	background:url("../image/home/fundo.jpg");
+}
+.section{
 	position: relative;
 	width:800px;
 	height:3791px;
-	background:url("../image/home/fundo.jpg");
 	margin: 0 auto;
 }
-.section {
-	width: 700px;
-	z-index: 900;
-	height: 700px;
-	margin:auto; 
- }
-#section1 { 
-	width: 800px;
-	height: 700px;
-	background:red;
-
-}
-#section2 {
-	width: 800px;
-	height: 700px;
-	background:red;
-	margin-top: -700px;
-  }
 
 
 /* ------- MENU ------- */
