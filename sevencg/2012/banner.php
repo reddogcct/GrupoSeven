@@ -46,9 +46,9 @@
 			<li i='5' style="background:url(img/content/home/banner/jan_2013/fim.jpg) no-repeat center top;" t='Orgulho de ser Seven !' d='Venha fazer parte desse time!'></li>
 		</a>
 		
-		<a href="http://www.youtube.com/watch?feature=player_embedded&v=cUxXd86ERS4" target="new">
-			<li i='6' style="background:url(img/content/home/banner/jan_2013/6.jpg) no-repeat center top; display:block;" t='O Sonho Começou, Seven & Full Sail University' d='Juntas para revolucionar o ensino no Brasil e no mundo'></li>
-		</a>
+		<!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=cUxXd86ERS4" target="new"> -->
+			<li '6'  id="video_banner" style="background: #ffffff; display:block; " t='Conheça nossa formação' d=''></li>
+	<! -- 	</a> -->
     </ul>
    </div>
   </div>

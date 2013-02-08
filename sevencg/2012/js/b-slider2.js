@@ -48,7 +48,13 @@ $(document).ready(function (e) {
   });
   $("#video_banner").click(function (e) {
  		 clearInterval(loop);
-		 $(this).html('<iframe src="iframe/Banner GWB.html" width="100%"  height="500" style=" position:absolute; left:50%; margin-left:-50%; margin-right:50%; "></iframe>');
+		 $(this).html('<iframe src="iframe/formacao.html" width="100%"  height="500" style=" position:absolute; left:50%; margin-left:-50%; margin-right:50%; "></iframe>');
 		
   })
+  
+  $('#video_banner').bind('hover', function() {
+      alert($(this).text());
+    });
+    $('#video_banner').trigger('click');
+
 });
