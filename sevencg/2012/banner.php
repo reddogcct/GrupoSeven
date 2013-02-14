@@ -47,8 +47,8 @@
 		</a>
 		
 		<!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=cUxXd86ERS4" target="new"> -->
-			<li '6'  id="video_banner" style="background: #ffffff; display:block; " t='Conheça nossa formação' d=''></li>
-	<! -- 	</a> -->
+			<li '6'  id="video_banner" style="background:url(iframe/banner-formacao.jpg) no-repeat center top; display:block" t='Conheça nossa formação' d=''></li>
+	<! -- 	</a>
     </ul>
    </div>
   </div>
