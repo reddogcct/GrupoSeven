@@ -142,22 +142,9 @@ if (isset($_POST['BTEnvia'])){
           <p>Alexandre@tuiuiu.com</p>
         </div><!--close informacoes-->
         
-				<div class="clear"></div>
-			</div><!--close wrapper-->
-        <!--- rodape -->  
-<div id="rodape_contato">
-<center>
-<div id="redes_sociais">
-<ul>
-<a href="https://www.facebook.com/SevenComputacaoGrafica" target="new"><li><img src="img/pd/facebook.png"></li></a>
-<a href="http://www.youtube.com/user/seven7cg" target="new"><li><img src="img/pd/youtube.png"></li></a>
-</ul>
-</div>
-
-	<div id="direitos"><strong>copyright &copy; CGEXTREME - ALL RIGHTS RESERVED</strong></div></center>
-</div>
-
-<!-- rodape -->
+		<div class="clear"></div>
 		</div><!--close content-->
+		
+<?php include('include/rodape.php'); ?>
 	</body>
 </html>

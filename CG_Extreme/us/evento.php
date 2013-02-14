@@ -72,22 +72,10 @@
 
 </div>
 
- <!--- rodape -->  
-<div id="rodape_evento">
-<center>
-<div id="redes_sociais">
-<ul>
-<a href="https://www.facebook.com/SevenComputacaoGrafica" target="new"><li><img src="img/pd/facebook.png"></li></a>
-<a href="http://www.youtube.com/user/seven7cg" target="new"><li><img src="img/pd/youtube.png"></li></a>
-</ul>
-</div>
-
-	<div id="direitos"><strong>copyright &copy; CGEXTREME - ALL RIGHTS RESERVED</strong></div></center>
-</div>
-
-<!-- rodape -->  
+  <?php include('include/rodape.php'); ?>
  </div>
- 
+
     </div>
+    
 </body>
 </html>

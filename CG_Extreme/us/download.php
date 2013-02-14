@@ -117,17 +117,7 @@ EVENTO</li></ul></div>
 
 </div>
 <div id="content2">
-<div id="rodape_download">
-<center>
-<div id="redes_sociais">
-<ul>
-<li><a href="https://www.facebook.com/SevenComputacaoGrafica" target="_blank"><img src="img/pd/facebook.png"></a></li>
-<li><a href="http://www.youtube.com/user/seven7cg" target="_blank"><img src="img/pd/youtube.png"></a></li>
-</ul>
 </div>
-
-	<div id="direitos"><strong>copyright &copy; CGEXTREME - ALL RIGHTS RESERVED</strong></div></center>
-</div>
-</div>
+<?php include('include/rodape.php'); ?>
 </body>
 </html>
